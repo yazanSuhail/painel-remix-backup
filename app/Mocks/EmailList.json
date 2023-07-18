@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "from": "Emerson31982@uol.com.br",
+        "to": "email@email.com",
+        "subject": "Your PST is ready for download.",
+        "date": "12:55",
+        "downloade": true
+    },
+    {
+        "id": 2,
+        "from": "Emersion1982@uol.com.br",
+        "to": "emai2l@email.com",
+        "subject": "Cupom R$ 100 OFF ou até 10% OFF na semana do cliente! Cupom R$ 100 OFF ou até 10% OFF na semana do cliente!",
+        "date": "12:20",
+        "downloade": false
+    },
+    {
+        "id": 3,
+        "from": "Emerson19182@uol.com.br",
+        "to": "emai12l@email.com",
+        "subject": "35 MEGA por R$30. Conheca tambem o plano de 500 MEGA!",
+        "date": "24 minutos",
+        "downloade": true
+    }
+]

@@ -1,0 +1,14 @@
+<svg id="Relogio" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Ellipse_52" data-name="Ellipse 52" transform="translate(1 1)" fill="none" stroke="#305dd7" stroke-width="1.5">
+    <circle cx="11" cy="11" r="11" stroke="none"/>
+    <circle cx="11" cy="11" r="10.25" fill="none"/>
+  </g>
+  <rect id="Rectangle_1879" data-name="Rectangle 1879" width="24" height="24" fill="none"/>
+  <g id="Group_12131" data-name="Group 12131" transform="translate(-681 -746)">
+    <g id="Group_12131-2" data-name="Group 12131" transform="translate(681 745)">
+      <line id="Line_43" data-name="Line 43" y1="10.025" transform="translate(11.982 5.475)" fill="none" stroke="#305dd7" stroke-width="1.5"/>
+      <path id="Path_2763" data-name="Path 2763" d="M4.517,0,0,4.517,4.517,9.035" transform="translate(7.483 16.03) rotate(-90)" fill="none" stroke="#305dd7" stroke-width="1.5"/>
+    </g>
+    <line id="Line_44" data-name="Line 44" x2="7" transform="translate(689.5 763.5)" fill="none" stroke="#305dd7" stroke-width="1.5"/>
+  </g>
+</svg>

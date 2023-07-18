@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "email": "Emerson1982@uol.com.br",
+        "startDate": "16:06 04/09/2017",
+        "endDate": "20/02/217 ás 12:55",
+        "timeSpent": "24 minutos",
+        "status": "failed"
+    },
+    {
+        "id": 2,
+        "email": "maria@uol.com.br",
+        "startDate": "16:06 04/09/2017",
+        "endDate": "20/02/217 ás 06:55",
+        "timeSpent": "23 minutos",
+        "status": "in progress"
+    },
+    {
+        "id": 3,
+        "email": "adriana@uol.com.br",
+        "startDate": "16:06 04/09/2017",
+        "endDate": "20/02/217 ás 05:55",
+        "timeSpent": "50 minutos",
+        "status": "completed"
+    },
+    {
+        "id": 4,
+        "email": "luiz@uol.com.br",
+        "startDate": "16:06 04/09/2017",
+        "endDate": "20/02/217 ás 09:55",
+        "timeSpent": "60 minutos",
+        "status": "in progress"
+    },
+    {
+        "id": 5,
+        "email": "joao@uol.com.br",
+        "startDate": "16:06 04/09/2017",
+        "endDate": "20/02/217 ás 10:55",
+        "timeSpent": "44 minutos",
+        "status": "completed"
+    },
+    {
+        "id": 6,
+        "email": "otavio@uol.com.br",
+        "startDate": "16:06 04/09/2017",
+        "endDate": "20/02/217 ás 14:55",
+        "timeSpent": "10 minutos",
+        "status": "failed"
+    },
+    {
+        "id": 7,
+        "email": "nelson@uol.com.br",
+        "startDate": "16:06 04/09/2017",
+        "endDate": "20/02/217 ás 13:55",
+        "timeSpent": "2 minutos",
+        "status": "completed"
+    }
+]

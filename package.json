@@ -1,0 +1,41 @@
+{
+  "private": true,
+  "sideEffects": false,
+  "scripts": {
+    "build": "remix build",
+    "dev": "remix dev",
+    "start": "remix-serve build",
+    "typecheck": "tsc"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@fontsource/montserrat": "^5.0.3",
+    "@material/linear-progress": "^14.0.0",
+    "@mui/icons-material": "^5.11.16",
+    "@mui/material": "^5.13.6",
+    "@mui/x-data-grid": "^6.9.1",
+    "@remix-run/css-bundle": "^1.18.0",
+    "@remix-run/node": "^1.18.0",
+    "@remix-run/react": "^1.18.0",
+    "@remix-run/serve": "^1.18.0",
+    "@tanstack/react-query": "^4.29.19",
+    "isbot": "^3.6.8",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "styled-components": "^6.0.1"
+  },
+  "devDependencies": {
+    "@remix-run/dev": "^1.18.0",
+    "@remix-run/eslint-config": "^1.18.0",
+    "@types/react": "^18.0.35",
+    "@types/react-dom": "^18.0.11",
+    "@types/styled-components": "^5.1.26",
+    "eslint": "^8.38.0",
+    "remix-esbuild-override": "^3.1.0",
+    "typescript": "^5.0.4"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
